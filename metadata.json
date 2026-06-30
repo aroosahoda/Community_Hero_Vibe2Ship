@@ -1,0 +1,11 @@
+{
+  "name": "Community Hero",
+  "description": "Hyperlocal civic problem solver that empowers citizens to report, verify, and track issues, and authorities to manage and resolve them with AI-powered image classification.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
